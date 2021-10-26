@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muhammad Faizan </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Shreyash Rangrej </h1>
 <h3 align="center">WordPress Plugins | Themes Engineer </h3>
 <h4 align="center">4 years of experience in WP Plugins Development.</h4>
 <p align="center">
