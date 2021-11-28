@@ -4,7 +4,7 @@
 
 </p>
 
-<h3> Hey there👋! I'm Shreaysh Rangrej.</h2>
+<h3> Hey there👋! I'm Shreyash Rangrej.</h2>
 
 <h2> Currently working as Web Developer </h2>
 
